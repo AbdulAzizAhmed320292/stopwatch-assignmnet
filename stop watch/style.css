@@ -1,0 +1,38 @@
+/* mod up counter */
+
+.main-container{
+    
+    text-align: center;
+       color: white;
+       margin: auto;
+       padding: 20px 20px 20px 20px; 
+
+}
+
+
+body{
+ background-color: black;    
+
+}
+
+.buttons{
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+
+.uptimers{
+    font-size: 40px;
+    margin: 20px 20px 20px 20px;
+}
+
+.buttons:hover{
+    background-color: aqua;
+}
+
+
+/* mod down counter */
